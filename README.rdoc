@@ -1,2 +1,0 @@
-# Hello_Ror
-this app is a todo list, an hello world to discover the ror framework
