@@ -1,2 +1,2 @@
-#Hello RoR
-this app is a todo list, a hello world for rails to discover the framework
+# Hello_Ror
+this app is a todo list, an hello world to discover the ror framework
